@@ -1,5 +1,5 @@
 # 📊 Microsoft Excel Cursus
-Deze repository bevat mijn excel files die ik heb gebruikt tijdens het volgen van de cursus: Comprehensive Microsoft Excel.
+Deze repository bevat mijn files die ik heb gebruikt tijdens het volgen van de cursus: Comprehensive Microsoft Excel.
 <br/>Link cursus: https://www.udemy.com/course/comprehensive-microsoft-excel-tutorial
 
 ## 📁 Inhoud

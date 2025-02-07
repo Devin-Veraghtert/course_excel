@@ -1,6 +1,5 @@
 # 📊 Microsoft Excel Cursus
-Deze repository bevat mijn files die ik heb gebruikt tijdens het volgen van de cursus: Comprehensive Microsoft Excel.
-<br/>Link cursus: https://www.udemy.com/course/comprehensive-microsoft-excel-tutorial
+Deze repository bevat mijn files die ik heb gebruikt tijdens het volgen van de cursus: [Comprehensive Microsoft Excel](https://www.udemy.com/course/comprehensive-microsoft-excel-tutorial)
 
 ## 📁 Inhoud
 De repository mappen zijn gesorteerd op de verschillende secties die ook overeenkomen met de cursus:
@@ -12,8 +11,8 @@ De repository mappen zijn gesorteerd op de verschillende secties die ook overeen
   * Macro's, VBA-programmering en complexe formules voor financiële modellering.
 
 ## 🎓 Certificaat
-Na het succesvol afronden van de cursus heb ik een certificaat of completion ontvangen.
-<br/>https://github.com/Devin-Veraghtert/course_excel/blob/main/certificaat_excel.pdf
+Na het succesvol afronden van de cursus heb ik een certificaat van voltooiing ontvangen.
+<br/>[Certificaat](https://github.com/Devin-Veraghtert/course_excel/blob/main/certificaat_excel.pdf)
 
 ## 📚 Onderwerpen van Cursus:
 * Tekstmanipulatie

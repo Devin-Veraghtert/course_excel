@@ -9,7 +9,7 @@ Intermediate Excel Technieken: Richt zich op geavanceerdere functies, waaronder 
 Geavanceerde Excel Technieken: Behandelt onderwerpen zoals macro's, VBA-programmering en complexe formules voor financiële modellering.
 
 ## Certificaat
-Na het succesvol afronden van de cursus heb ik het volgende certificaat behaald:
+Na het succesvol afronden van de cursus heb ik het volgende certificaat behaald: https://github.com/Devin-Veraghtert/course_excel/blob/main/certificaat_excel.pdf
 
 ## Over de Cursus
 De Comprehensive Microsoft Excel Tutorial is ontworpen om deelnemers van beginner tot gevorderd niveau te begeleiden in Microsoft Excel. De cursus behandelt onder andere:

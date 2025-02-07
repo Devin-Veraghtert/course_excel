@@ -4,9 +4,9 @@ Deze repository bevat mijn uitwerkingen en notities van de Comprehensive Microso
 ## Inhoud
 De repository is georganiseerd in de volgende mappen, die overeenkomen met de verschillende secties van de cursus:
 
-Excel Basisprincipes: Bevat oefeningen en notities over de basisfunctionaliteiten van Excel, zoals navigatie, gegevensinvoer en eenvoudige formules.
-Intermediate Excel Technieken: Richt zich op geavanceerdere functies, waaronder gegevensanalyse, draaitabellen en grafieken.
-Geavanceerde Excel Technieken: Behandelt onderwerpen zoals macro's, VBA-programmering en complexe formules voor financiële modellering.
+* Excel Basisprincipes: Bevat oefeningen en notities over de basisfunctionaliteiten van Excel, zoals navigatie, gegevensinvoer en eenvoudige formules.
+* Intermediate Excel Technieken: Richt zich op geavanceerdere functies, waaronder gegevensanalyse, draaitabellen en grafieken.
+* Geavanceerde Excel Technieken: Behandelt onderwerpen zoals macro's, VBA-programmering en complexe formules voor financiële modellering.
 
 ## Certificaat
 Na het succesvol afronden van de cursus heb ik het volgende certificaat behaald: https://github.com/Devin-Veraghtert/course_excel/blob/main/certificaat_excel.pdf
